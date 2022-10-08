@@ -1,2 +1,4 @@
-# ADM-HW1
-ADM - Homework 1 Repo
+### ADM Homework 1
+Maria Alejandra Pena
+
+
