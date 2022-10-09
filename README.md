@@ -1,7 +1,9 @@
-### ADM Homework 1 :tw-1f383:
+### ADM Homework 
+------------
+
 Maria Alejandra Pena 
 
-------------
+
 **Files found in the repository:**
 
 
